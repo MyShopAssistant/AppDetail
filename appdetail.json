@@ -5,10 +5,9 @@
 
         {
 
-            "appversion":"1.0",
+            "appversion":"2.0",
             "updatemessage":"Update Database",        
-            "directDownload":"https://mctvteam.github.io/Coder/Download/mctv8.0.apk",
-            "forceUpdate":"true"
+            "directDownload":"https://mctvteam.github.io/Coder/Download/mctv8.0.apk"
             
             
         }
