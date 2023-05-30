@@ -1,0 +1,29 @@
+{
+  "Premium_Database": [
+    
+    
+      
+    {
+    "premiumPackage": "Basic",
+    "Price": "0 MMK",
+    "AdsStatus": "ads",
+     "premiumDetail":"Watch Ads to use App."
+    
+  },{
+    "premiumPackage": "Level 1",
+    "Price": "5000 MMK",
+    "AdsStatus": "noads",
+     "premiumDetail":"No Ads. 1years."
+    
+  },{
+    "premiumPackage": "Level 2",
+    "Price": "20000 MMK",
+    "AdsStatus": "ads",
+     "premiumDetail":"No Ads. Life Time"
+    
+  } 
+  
+    
+    ]
+  
+}
